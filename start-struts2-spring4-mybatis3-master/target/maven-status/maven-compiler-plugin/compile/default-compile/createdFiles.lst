@@ -1,0 +1,9 @@
+net\argius\myapp\actions\UsersAction.class
+net\argius\myapp\models\User.class
+net\argius\myapp\services\MyMessageService.class
+net\argius\myapp\services\MyCalcComponentMinusImp.class
+net\argius\myapp\services\MyCalcComponent.class
+net\argius\myapp\services\MyCalcComponentPlusImp.class
+net\argius\myapp\actions\WelcomeAction.class
+net\argius\myapp\models\UserMapper.class
+net\argius\myapp\actions\HelloAction.class
